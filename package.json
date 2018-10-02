@@ -1,0 +1,25 @@
+{
+  "name": "fantasy-app",
+  "version": "1.0.0",
+  "description": "fantasy football data app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trizzlenova/fantasy-voyage.git"
+  },
+  "author": "Troy Swayzee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trizzlenova/fantasy-voyage/issues"
+  },
+  "homepage": "https://github.com/Trizzlenova/fantasy-voyage#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1"
+  }
+}
